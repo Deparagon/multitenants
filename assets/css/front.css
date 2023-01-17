@@ -1,0 +1,74 @@
+/*
+   MOMENT
+
+*/
+
+ .bar-line {
+ 	height:10px;
+ 	background: #830eac;
+ }
+
+.the-mtfx-form-register{
+	padding:20px;
+	outline: 1px solid #f6f6f6;
+}
+
+.the-mtfx-form-register .form-group{
+   width: 100%;
+   overflow-x: hidden;
+   margin-top:5px;
+}
+
+ 
+ .the-mtfx-form-register .form-group label{
+ 	display: inline-block;
+ 	width: 40%;
+ 	 float:left;
+    font-weight: 600;
+ }
+
+ .the-mtfx-form-register .form-group input{
+ 	display: inline-block;
+ 	width: 40%;
+ 	 float:left;
+    height:40px;
+    border-radius: 5px;
+
+ }
+
+ .the-mtfx-form-register .mbr-buttons--right{
+   text-align: center;
+ }
+
+.the-mtfx-form-register .mbr-buttons__btn{
+   margin-top: 10px;
+    text-align: center;
+    color: #fff;
+    background-color: #333;
+    padding: 10px;
+    text-transform: uppercase;
+    border-radius: 5px;
+
+}
+
+.alert{
+   padding:10px;
+   text-align: center;
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+
+.alert-danger{
+   background-color:#E83F36;
+   color:#fff;
+}
+
+
+.alert-success{
+   background-color:#109D58;
+   color:#fff;
+}
+
+ .cls{
+ 	clear: both;
+ }
